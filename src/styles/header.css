@@ -1,0 +1,17 @@
+.header-container {
+  height: 40px;
+  display: flex;
+  background-color: rgb(223, 243, 243);
+  justify-content: center;
+}
+
+.links {
+ margin: 1%;
+ margin-left: 2%;
+}
+
+.title{
+  margin: auto;
+    margin-top: 7px;
+    font-size: x-large;
+}
